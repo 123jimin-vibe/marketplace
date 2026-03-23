@@ -5,11 +5,11 @@
   },
   "metadata": {
     "description": "My plugins for Claude Code. Feel free to use.",
-    "version": "0.1.0"
+    "version": "0.1.1"
   },
   "plugins": [
     {
-      "name": "prompt-enginner",
+      "name": "prompt-engineer",
       "description": "Draft and revise LLM prompts, system prompts, AGENTS.md, and Agent Skills.",
       "source": {"source": "git-subdir", "url": "https://github.com/123jimin-vibe/plugin-prompt-engineer.git", "path": "plugin", "ref": "main"}
     },

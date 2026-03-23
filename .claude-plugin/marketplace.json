@@ -1,0 +1,22 @@
+{
+  "name": "jiminp",
+  "owner": {
+    "name": "Jimin Park"
+  },
+  "metadata": {
+    "description": "My plugins for Claude Code. Feel free to use.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "prompt-enginner",
+      "description": "Draft and revise LLM prompts, system prompts, AGENTS.md, and Agent Skills.",
+      "source": {"source": "git-subdir", "url": "https://github.com/123jimin-vibe/plugin-prompt-engineer.git", "path": "plugin", "ref": "main"}
+    },
+    {
+      "name": "worklog",
+      "description": "AI Agent Task Management.",
+      "source": {"source": "git-subdir", "url": "https://github.com/123jimin-vibe/plugin-worklog.git", "path": "plugin", "ref": "main"}
+    }
+  ]
+}

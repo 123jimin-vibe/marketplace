@@ -16,7 +16,7 @@
     {
       "name": "code-reviewer",
       "description": "A collection of agents useful for reviewing code.",
-      "source": {"source": "git-subdir", "url": "https://github.com/123jimin-vibe/code-reviewer.git", "path": "plugin", "ref": "main"}
+      "source": {"source": "git-subdir", "url": "https://github.com/123jimin-vibe/plugin-code-reviewer.git", "path": "plugin", "ref": "main"}
     },
     {
       "name": "worklog",

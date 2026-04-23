@@ -14,6 +14,11 @@
       "source": {"source": "git-subdir", "url": "https://github.com/123jimin-vibe/plugin-prompt-engineer.git", "path": "plugin", "ref": "main"}
     },
     {
+      "name": "code-reviewer",
+      "description": "A collection of agents useful for reviewing code.",
+      "source": {"source": "git-subdir", "url": "https://github.com/123jimin-vibe/code-reviewer.git", "path": "plugin", "ref": "main"}
+    },
+    {
       "name": "worklog",
       "description": "AI Agent Task Management.",
       "source": {"source": "git-subdir", "url": "https://github.com/123jimin-vibe/plugin-worklog.git", "path": "plugin", "ref": "main"}
